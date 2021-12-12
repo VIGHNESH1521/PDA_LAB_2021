@@ -1,3 +1,3 @@
 # PDA_LAB_2021
-Jupyter notebook containing lab programs for the subject PYTHON FOR DATA ANALYSIS
+Jupyter notebook containing lab programs for the subject PYTHON FOR DATA ANALYSIS.
 Dataset related to IRIS has been imported from Seaborn's "load_dataset" method, which has it's own built-in 17 datasets.....
